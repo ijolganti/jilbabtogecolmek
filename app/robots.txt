@@ -1,4 +1,3 @@
 User-agent: *
 Disallow:
 Allow: /
-sitemap: https://jilbabtogecolmek.pages.dev/sitemap.xml
